@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/api-react-typescript/static/css/main.1ccdd17f.css",
+    "main.js": "/api-react-typescript/static/js/main.21ac7bfd.js",
+    "static/js/787.a2bd3d36.chunk.js": "/api-react-typescript/static/js/787.a2bd3d36.chunk.js",
+    "index.html": "/api-react-typescript/index.html",
+    "main.1ccdd17f.css.map": "/api-react-typescript/static/css/main.1ccdd17f.css.map",
+    "main.21ac7bfd.js.map": "/api-react-typescript/static/js/main.21ac7bfd.js.map",
+    "787.a2bd3d36.chunk.js.map": "/api-react-typescript/static/js/787.a2bd3d36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ccdd17f.css",
+    "static/js/main.21ac7bfd.js"
+  ]
+}
