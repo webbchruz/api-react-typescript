@@ -1,0 +1,5 @@
+{
+    "editor.formatOnsave":true,
+    "editor.defaultFormatter":"esbenp.prettiet-vscode",
+    "editor.tabSize":2
+}
